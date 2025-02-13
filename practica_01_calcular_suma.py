@@ -7,6 +7,6 @@ num_dos = float(input("ingrese por favor un segundo numero: "))
 
 operacion_suma = num_uno + num_dos
 
-#mostramos el resultado
+#mostramos el resultado ahora con un mesaje apropiado
 
-print(operacion_suma)
+print("el resultado de la suma es: ",operacion_suma)
